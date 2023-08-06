@@ -1,4 +1,7 @@
 # MPY-CONSOLE
+
+关于该Fork的[说明](./README-Ayala.md)
+
 求人不如求己，等这个靠那个，最后还是自己先造出来了，自学半年PCB，3d建模就硬搞，水平难免低，主打一个能用。
 
 真的是micropython的独享，因为只有MPY有repl，现在轮到c羡慕mpy了。
