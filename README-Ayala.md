@@ -6,6 +6,11 @@
 
 Gerber制版文件（嘉立创）：[Gerber_PCB_mpy-console.zip](./Gerber_PCB_mpy-console.zip)
 
+关于原理图的额外补充：
+
+- 五向开关并不是对应的型号，而且采用无电阻上拉设计，BOM可以参考淘宝优信电子卖的唯一一款五向开关
+- BC6561并不是一个常见元件，需要在BitCode的[官网](https://bitcode.com.cn/product/bc6561/)购买
+
 背面预览图
 
 ![20230806232446.png](./20230806232446.png)
